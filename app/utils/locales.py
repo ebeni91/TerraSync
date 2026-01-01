@@ -1,0 +1,50 @@
+TRANSLATIONS = {
+    'en': {
+        'title': 'TerraSync Dashboard',
+        'moisture': 'Moisture',
+        'ph': 'pH Level',
+        'temp': 'Temperature',
+        'rec_plant_now': 'Good to plant now!',
+        'rec_water': 'Water the soil (moisture too low).',
+        'rec_ph': 'Adjust pH (add lime/sulfur).',
+        'rec_rain': 'High rain probability—delay actions.',
+        'rec_wait': 'Wait (Conditions poor).',
+        'rec_healthy': 'Healthy: No disease detected.',
+        'rec_blight': 'Warning: Early Blight risk.',
+        'rec_wilt': 'Warning: Fusarium Wilt risk.',
+        'control_panel': 'Control Panel',
+        'refresh': 'Refresh Data'
+    },
+    'am': {
+        'title': 'TerraSync ዳሽቦርድ',
+        'moisture': 'የምድር እርጥበት',
+        'ph': 'pH ደረጃ',
+        'temp': 'ሙቀት',
+        'rec_plant_now': 'አሁን ተባል!',
+        'rec_water': 'ምድር አሟል (እርጥበት በጣም ዝቅተኛ ነው)።',
+        'rec_ph': 'pH አስተካክል',
+        'rec_rain': 'ከፍተኛ የዝናብ እድል',
+        'rec_wait': 'ጠብቅ',
+        'rec_healthy': 'ጤናማ',
+        'rec_blight': 'ማስጠንቀቂያ፡ የቅድመ ብላይት አደጋ',
+        'rec_wilt': 'ማስጠንቀቂያ፡ የፉዛሪየም ዊልት አደጋ',
+        'control_panel': 'የቁጥጥር ፓነል',
+        'refresh': 'ዳግም አስጀብሩ'
+    },
+    'om': {
+        'title': 'TerraSync Dashboard',
+        'moisture': 'Qixxii Uummaa',
+        'ph': 'pH Mata Duree',
+        'temp': 'Haala Jireenya',
+        'rec_plant_now': 'Amma uumuu!',
+        'rec_water': 'Uumaa deebisuu',
+        'rec_ph': 'pH deebisuu',
+        'rec_rain': 'Aadaa barii guddaa',
+        'rec_wait': 'Tarii',
+        'rec_healthy': 'Caafimaad qaba',
+        'rec_blight': 'Akeekkachiisa: Early Blight',
+        'rec_wilt': 'Akeekkachiisa: Fusarium Wilt',
+        'control_panel': 'Paaneelii Too’achuu',
+        'refresh': 'Dabalee Deebisuu'
+    }
+}
